@@ -1,0 +1,26 @@
+.produto {
+    background-color:  rgb(35, 118, 212);
+    font-size: 18px;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 15px;
+}
+
+.preco-produto {
+    color: #f8a342;
+    font-weight: bold;
+}
+
+.preco-frete {
+    color: #f8a342;
+    font-weight: bold;
+}
+
+.titulo-frete {
+    color: rgb(255, 108, 108    );
+}
+
+.frete {
+    background-color:  rgb(21, 250, 193); 
+    padding: 10px;
+}
